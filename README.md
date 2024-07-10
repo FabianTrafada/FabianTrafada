@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @FabianTrafada
-- 👀 I’m interested in discord bot
-- 🌱 I’m currently learning discord.js
-- 💞️ I’m looking to collaborate on someone who expert on discord.js
-- 📫 How to reach me just email me to fabianskytrafadaperkasa@gmail.com
+- 👀 I’m interested in NextJS
+- 🌱 I’m currently learning NextJS
+- 📫 How to reach me just email me to fabiantrafadaperkasa@gmail.com
 
 <!---
 FabianTrafada/FabianTrafada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
