@@ -137,10 +137,6 @@ SMA/SMK category as part of team `git merge konflik-terus`.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FabianPerkasa&theme=tokyo-night&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FabianPerkasa&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
